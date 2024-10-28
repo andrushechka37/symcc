@@ -1,0 +1,16 @@
+# ninja log v5
+1	80	1729506859681333210	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-mkdir	6651590ce2690d4b
+81	101	1729506859701333233	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-download	a1395516e99bee70
+101	121	1729506859722333259	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-patch	e2bbd94c12501dc8
+101	122	1729506859722333259	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-update	f150922d67933ffc
+1	1617	1729506861206335047	CMakeFiles/SymCC.dir/compiler/Runtime.cpp.o	ba84f91200a4545e
+122	2363	1729506861964335959	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-configure	5d6f135a9e98faa0
+1	4530	1729506864109338538	CMakeFiles/SymCC.dir/compiler/Symbolizer.cpp.o	3736aafefd74d28f
+1	5090	1729506864676339219	CMakeFiles/SymCC.dir/compiler/Pass.cpp.o	2bba2d986aaa9f5
+1	5135	1729506864722339275	CMakeFiles/SymCC.dir/compiler/Main.cpp.o	b3a8d3a57b86596f
+5135	5287	1729506864883339467	libsymcc.so	37c44988a88a96b3
+2363	5945	0	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-build	192ac95ce820dea
+5945	5964	1729506865564340284	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-install	d22b4c0971c8356a
+5964	5992	1729506865592340319	CMakeFiles/SymCCRuntime-complete	b2d865646b23bbe9
+5964	5992	1729506865592340319	SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-done	b2d865646b23bbe9
+5992	6828	0	test/CMakeFiles/check	a6a5b439b72bfa2b

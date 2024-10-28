@@ -1,0 +1,11 @@
+/symcc/build_symcc/CMakeFiles/rebuild_cache.dir
+/symcc/build_symcc/CMakeFiles/SymCC.dir
+/symcc/build_symcc/CMakeFiles/RISCVTargetParserTableGen.dir
+/symcc/build_symcc/CMakeFiles/acc_gen.dir
+/symcc/build_symcc/CMakeFiles/edit_cache.dir
+/symcc/build_symcc/CMakeFiles/omp_gen.dir
+/symcc/build_symcc/CMakeFiles/SymCCRuntime.dir
+/symcc/build_symcc/CMakeFiles/intrinsics_gen.dir
+/symcc/build_symcc/test/CMakeFiles/rebuild_cache.dir
+/symcc/build_symcc/test/CMakeFiles/edit_cache.dir
+/symcc/build_symcc/test/CMakeFiles/check.dir

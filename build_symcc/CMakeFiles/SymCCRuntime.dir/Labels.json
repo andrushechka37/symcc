@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/symcc/build_symcc/CMakeFiles/SymCCRuntime"
+		},
+		{
+			"file" : "/symcc/build_symcc/CMakeFiles/SymCCRuntime.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/CMakeFiles/SymCCRuntime-complete.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-install.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-mkdir.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-download.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-update.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-patch.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-configure.rule"
+		},
+		{
+			"file" : "/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SymCCRuntime"
+		],
+		"name" : "SymCCRuntime"
+	}
+}

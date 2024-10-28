@@ -1,0 +1,13 @@
+# Target labels
+ SymCCRuntime
+# Source files and their labels
+/symcc/build_symcc/CMakeFiles/SymCCRuntime
+/symcc/build_symcc/CMakeFiles/SymCCRuntime.rule
+/symcc/build_symcc/CMakeFiles/SymCCRuntime-complete.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-install.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-mkdir.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-download.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-update.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-patch.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-configure.rule
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-stamp/SymCCRuntime-build.rule

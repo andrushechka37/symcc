@@ -1,0 +1,11 @@
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/CMakeFiles/rebuild_cache.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/CMakeFiles/edit_cache.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/rebuild_cache.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/SymCCRtStatic.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/SymCCRtShared.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/SymCCRtObj.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/RISCVTargetParserTableGen.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/acc_gen.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/edit_cache.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/omp_gen.dir
+/symcc/build_symcc/SymCCRuntime-prefix/src/SymCCRuntime-build/src/backends/qsym/CMakeFiles/intrinsics_gen.dir
